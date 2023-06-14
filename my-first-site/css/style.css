@@ -1,6 +1,6 @@
-@import url("../fonts/Helvetica/Helvetica.ttf");
-@import url("../fonts/Helvetica/HelveticaLt.ttf");
-@import url("../fonts/Helvetica/Helvetica-Bold.ttf");
+@import url("../my-first-site/fonts/Helvetica/Helvetica.ttf");
+@import url("../my-first-site/fonts/Helvetica/HelveticaLt.ttf");
+@import url("../my-first-site/fonts/Helvetica/Helvetica-Bold.ttf");
 body {
   font-family: "Helvetica", "Poppins", sans-serif;
   overflow-x: hidden;
